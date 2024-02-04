@@ -1,0 +1,24 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - always_put_control_body_on_new_line
+    - always_put_required_named_parameters_first
+    - always_specify_types
+    - annotate_overrides
+    - avoid_multiple_declarations_per_line
+    - avoid_positional_boolean_parameters
+    - avoid_returning_null_for_void
+    - avoid_unnecessary_containers
+    - camel_case_types
+    - avoid_void_async
+    - curly_braces_in_flow_control_structures
+    - empty_constructor_bodies
+    - flutter_style_todos
+    - exhaustive_cases
+    - missing_whitespace_between_adjacent_strings
+    - prefer_is_empty
+    - slash_for_doc_comments
+    - unawaited_futures
+    - unnecessary_parenthesis
